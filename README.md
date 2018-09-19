@@ -1,0 +1,2 @@
+# SpringMVC_MyfirstDemo
+我的第一个SpringMVC栗子，简单使用idea+maven+SpringMVC显示水果的数据
